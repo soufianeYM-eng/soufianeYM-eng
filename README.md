@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Soufiane Yousfi Mghari
 #### I'm a Software Engineer and Full-Stack Web Developer
-![I'm a Software Engineer and Full-Stack Web Developer](https://i.ibb.co/qnScpfp/banner.png)
+![I'm a Software Engineer and Full-Stack Web Developer](./soufym-github.png)
 
 Hello! My Name is Soufiane Yousfi Mghari from Morocco and living in Casablanca, i'm a software engineer from National School of Applied Sciences of Tangier since 2021 and now i'm a full stack web developer at Botticelli Web for more than one year.
 
